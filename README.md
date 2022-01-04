@@ -26,6 +26,7 @@ Behind the scenes
   <p>:white_check_mark: Expo</p>
   <p>:white_check_mark: React Native </p>
   <p>:white_check_mark: React Hooks</p>
+   <p>:white_check_mark: Responsive layout</p>
   <p>:white_check_mark: Customization of components</p>
 </div>
 
